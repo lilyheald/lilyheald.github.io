@@ -22,7 +22,7 @@ My research uses statistical and computational approaches to modern and ancient 
 <img src="{{ '/images/research/archaic-pca.svg' | relative_url }}" class="research-thumb" width="400" height="200" alt="Archaic samples projected onto a modern-human PCA">
 <div class="research-body">
 <h2 class="research-title">Pigmentation Genetics in Archaic Hominins</h2>
-<p class="research-desc">My honors thesis with Dr. Tina Lasisi evaluated whether pigmentation can be reliably predicted from Neanderthal and Denisovan genomes. Using public data from the Simons Genome Diversity Project and the Max Planck Institute for Evolutionary Anthropology, I assessed sequencing depth, missingness, and genotype reliability in low-coverage archaic genomes and projected archaic samples onto genetic PCAs of modern humans. The analyses are on the <a href="https://lilyheald.github.io/PAINT/">project site</a>, and a manuscript is in preparation.</p>
+<p class="research-desc">My honors thesis with Dr. Tina Lasisi evaluated whether pigmentation can be reliably predicted from Neanderthal and Denisovan genomes. Using public data from the Simons Genome Diversity Project and the Max Planck Institute for Evolutionary Anthropology, I assessed sequencing depth, missingness, and genotype reliability in low-coverage archaic genomes and projected archaic samples onto genetic PCAs of modern humans. The <a href="https://doi.org/10.7302/dspace/30029">thesis</a> is available on Deep Blue, the analyses are on the <a href="https://lilyheald.github.io/PAINT/">project site</a>, and a manuscript is in preparation.</p>
 </div>
 </div>
 

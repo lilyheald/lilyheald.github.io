@@ -14,6 +14,10 @@ permalink: /publications/
 <h2>In Preparation</h2>
 
 {% bibliography --query @*[status=prep] %}
+
+<h2>Thesis</h2>
+
+{% bibliography --query @*[status=thesis] %}
 </div>
 
 <div class="section-card" markdown="0">
