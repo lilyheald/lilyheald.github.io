@@ -67,13 +67,6 @@ permalink: /about/
 </ul>
 </div>
 
-<div class="section-card" markdown="0">
-<h3>Industry Experience</h3>
-<ul>
-<li><strong>Machine Learning Intern</strong>, ATC (July&#8211;August 2025). Applied a deep learning model to multi-channel battery test data to predict battery state of health, reducing required test time and cost, and evaluated battery characteristics across remanufacturers for a competitive analysis study.</li>
-</ul>
-</div>
-
 {% if site.data.awards %}
 <div class="section-card">
 <h3>Awards &amp; Honors</h3>
