@@ -70,7 +70,6 @@ Your existing project page at https://lilyheald.github.io/PAINT/ keeps working. 
 | Research cards                        | `_pages/research.md`          |
 | Publications                          | `assets/ref.bib`              |
 | Presentations                         | `_data/talks.yml`             |
-| News                                  | `_data/news.yml`              |
 | Awards                                | `_data/awards.yml`            |
 | Software                              | `_data/software.yml`          |
 | Mentoring & service                   | `_data/teaching.yml`          |
