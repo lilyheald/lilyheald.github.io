@@ -22,7 +22,6 @@ layout: null
     <item>
       <title>{{ article.headline | xml_escape }}</title>
       <description>{{ article.headline | xml_escape }}</description>
-      <pubDate>{{ article.date | date_to_rfc822 }}</pubDate>
       <link>{{ '/allnews.html' | absolute_url }}</link>
     </item>
     {% endfor %}
