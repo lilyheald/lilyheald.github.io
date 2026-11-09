@@ -1,0 +1,30 @@
+# Conference presentations, shown on the Presentations page (newest first).
+# Each entry needs: title, event, year
+# Optional: authors, location, date, type, url, slides, video
+# (type: invited is listed separately; everything else is listed as a conference presentation)
+
+- title: "Pigmentation Genetics in Archaic Hominins: Evaluating DNA Phenotyping in Neanderthal and Denisovan Genomes"
+  authors: "Lily Heald, Yemko Pryor, and Tina Lasisi"
+  event: Anthropology Honors Research Poster Symposium, University of Michigan
+  year: 2026
+  url: https://lilyheald.github.io/PAINT/
+
+- title: "Pigmentation, Seasonality, and Genetics: Evaluating Inner Arm and Forehead Measurements in Two South African Groups"
+  authors: "Lily Heald, Mimi Li, Jian Kang, Abhimanyu Abhimanyu, Anna K. Coussens, Celeste E. Naude, George Chaplin, Laurel N. Pearson, Rene Goliath, Mark D. Shriver, Robert J. Wilkinson, Nina G. Jablonski, and Tina Lasisi"
+  event: Annual Meeting of the American Association of Biological Anthropologists
+  year: 2025
+
+- title: "Feeding People: A New Look at Provisioning an Early Bronze Age IIIA Urban Community along the Northern Negev"
+  authors: "Kara Larson, Lily Heald, Meghan Dawn, and Alicia Ventresca-Miller"
+  event: "New Approaches to Ancient Animals session, American Society of Overseas Research Annual Meeting"
+  year: 2024
+
+- title: "Feeding Tell el-Hesi: Bioapatite Isotopic Approaches to Understanding Meat Provisioning in the Early Bronze Age"
+  authors: "Lily Heald, Kara Larson, and Alicia Ventresca-Miller"
+  event: Undergraduate Research Opportunities Program Symposium, University of Michigan
+  year: 2024
+
+- title: "Bioapatite and Collagen Approaches to Unearthing Ancient Pastoralists in Southern Levant"
+  authors: "Lily Heald, Anika Vishwanath, and Kara Larson"
+  event: Undergraduate Research Opportunities Program Symposium, University of Michigan
+  year: 2023

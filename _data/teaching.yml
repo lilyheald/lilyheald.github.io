@@ -1,0 +1,20 @@
+# Mentoring and service, shown on the Mentoring & Service page in the order listed.
+# Each entry needs: course, title
+# Optional: term, role, url, description
+
+- course: Peer Facilitator
+  title: Undergraduate Research Opportunities Program, University of Michigan
+  term: 2024-2026
+  url: https://lsa.umich.edu/urop
+  description: Led biweekly seminars for 22 undergraduates on research skills, including grant writing and manuscript preparation, and organized guest-speaker sessions with program alumni on post-baccalaureate research, industry careers, and graduate and professional school applications.
+
+- course: Activities Committee Head
+  title: F.E.M.M.E.S., University of Michigan
+  term: 2025-2026
+  url: https://www.femmes.studentorgs.umich.edu/
+  description: Directed a team of 7 executive board members planning project-based STEM programming for girls in elementary through high school, organized a college-readiness event for high schoolers, and led STEM activities and lectures for groups of 20 middle and high school students.
+
+- course: Chemical Hygiene Officer
+  title: Lasisi Lab, University of Michigan
+  term: 2024-2026
+  description: Authored SOPs, training materials, and instructional videos for lab equipment and chemical use, tracked training certification, and conducted monthly EHS audits to maintain safe equipment use and BSL-2 compliance.

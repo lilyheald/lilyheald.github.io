@@ -1,0 +1,23 @@
+# Software projects, shown on the Software page in the order listed.
+# Each entry needs: name, description
+# Optional: authors, website, repo, docs, paper
+
+- name: "PAINT: Pigmentation Genetics in Archaic Hominins"
+  authors: Lily Heald
+  website: https://lilyheald.github.io/PAINT/
+  repo: https://github.com/lilyheald/PAINT
+  description: >-
+    Reproducible analysis site for my honors thesis, evaluating the feasibility of
+    DNA phenotyping in 14 Neanderthal and Denisovan genomes. Includes depth and
+    missingness analyses of low-coverage archaic genomes, genetic PCAs built from
+    Simons Genome Diversity Project genomes with archaic samples projected onto them,
+    and comparisons of pigmentation-associated SNPs.
+
+- name: isotopeTools
+  authors: Lily Heald
+  repo: https://github.com/lilyheald/isotopeTools
+  description: >-
+    An open-source R package that automates stable isotope analysis of sequential
+    enamel samples from archaeological teeth: cleaning and standardizing isotope
+    datasets, generating summary statistics, and plotting δ13C and δ18O profiles
+    per tooth and per species.
